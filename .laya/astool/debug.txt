@@ -1,0 +1,21 @@
+1,0.00,,0,Project command:d:\myLayaTeach\layaUIShow/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false;quickcompile=true
+Project configuration:d:\myLayaTeach\layaUIShow/.actionScriptProperties.
+1,0.00,,0,output path:d:/myLayaTeach/layaUIShow/bin/h5/
+1,0.00,,0,Main Class:d:/myLayaTeach/layaUIShow/src/LayaUISample.as
+1,0.00,,0,output file:LayaUISample
+1,0.00,,0,compilerSourcePath d:/myLayaTeach/layaUIShow/libs/src/
+
+1,0.00,,0,Compile Path:d:/myLayaTeach/layaUIShow/src/
+
+1,0.00,,0,Compile Path:d:/myLayaTeach/layaUIShow/libs/src/
+
+1,0.00,d:/myLayaTeach/layaUIShow/src,0,Collect
+1,0.00,d:/myLayaTeach/layaUIShow/libs/src,0,Collect
+1,2.00,,0,read class message
+7,11.14,d:/myLayaTeach/layaUIShow/src/view/ComboBoxView.as,9,view.ComboBoxView extends ui.ComboBoxUI,This class  is not defined;
+7,51.55,d:/myLayaTeach/layaUIShow/src/view/ComboBoxView.as,36,myList.refresh This variable is not defined.
+1,89.89,,0,Disable Flash3D d:/myLayaTeach/layaUIShow/src/LayaUISample.as
+12,89.89,d:/myLayaTeach/layaUIShow/bin/h5/LayaUISample.max.js,1440004,
+11,89.89,d:/myLayaTeach/layaUIShow/bin/h5/LayaUISample.max.html,895,
+******************************************************************************
+14,89.89,,0,
